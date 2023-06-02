@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Bhagyashree1504
+- 👀 I’m interested in travelling and programming.
+- 🌱 I’m currently learning Full Stack Java Developement and pursuing MCA.
+- 💞️ I’m looking to collaborate with other developers and want to aquire knowlegde and experience.
+- 📫 How to reach me - bhagyashreebobhate15@gmail.com 
+
+<!---
+Bhagyashree1504/Bhagyashree1504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
