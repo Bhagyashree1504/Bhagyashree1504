@@ -3,7 +3,10 @@
 - ✨ I love to travel .
 - 🌱 I’m currently learning Full Stack Java Developement and pursuing MCA.
 - 💞️ I’m looking to collaborate with other developers and want to aquire knowlegde and experience.
-- 📫 How to reach me - bhagyashreebobhate15@gmail.com 
+- 📫 How to reach me - 
+- email-bhagyashreebobhate15@gmail.com 
+linkdln - (https://www.linkedin.com/in/bhagyashree-bobhate-989238226)
+
 
 <!---
 Bhagyashree1504/Bhagyashree1504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
