@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Bhagyashree1504
-- 👀 I’m interested in travelling and programming.
+- 👋 Hi, I’m Bhagyashree
+- 👀 I’m interested in programming and coding.
+- ✨ I love to travel .
 - 🌱 I’m currently learning Full Stack Java Developement and pursuing MCA.
 - 💞️ I’m looking to collaborate with other developers and want to aquire knowlegde and experience.
 - 📫 How to reach me - bhagyashreebobhate15@gmail.com 
